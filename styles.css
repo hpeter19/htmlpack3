@@ -26,6 +26,12 @@ html, body{
 }
 .main-nav{
     text-align: center;
+    font-size: 1.2em;
+    font-weight: lighter;
+    border-bottom: 1px solid #bfc6d4;
+}
+.main-nav li{
+    padding: 0% 5%;
 }
 .main-header {
     background-color: #f8edd9;
