@@ -1,0 +1,7 @@
+.main-header {
+    background-color: #f8edd9;
+    background-image: url(images/trees-9480700_1920.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+    padding-bottom: 30px;
+}
