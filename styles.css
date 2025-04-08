@@ -59,3 +59,39 @@ html, body{
     margin: 0 auto;
     padding: 0 1.2em;
 }
+.section-header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    text-align: center;
+    font-size: 1.7em;
+}
+.about-band-image{
+    float: left;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 50%;
+}
+.main-footer{
+    background-color: #024a43;
+    color: white;
+    padding: .25em 0;
+}
+.main-footer-container{
+    display: flex;
+    align-items: center;
+
+}
+.main-footer-container ul{
+    flex-grow: 1;
+    text-align: end;
+
+}
+.footer-nav li{
+    padding: 0 0.5em;
+}
+.footer-nav img{
+    width: 30px;
+    height: 30px;
+    
+}
