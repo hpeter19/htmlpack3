@@ -89,9 +89,14 @@ html, body{
 }
 .footer-nav li{
     padding: 0 0.5em;
+    display: inline;
 }
 .footer-nav img{
     width: 30px;
     height: 30px;
-    
+
+
+}
+.footer-nav img:hover{
+    background-color: #f4efee;
 }
