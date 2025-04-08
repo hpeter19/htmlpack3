@@ -51,3 +51,11 @@ html, body{
 .band-name-large{
     font-size: 7em;
 }
+.content-section{
+    margin: 1em;
+}
+.container{
+    max-width: 950px;
+    margin: 0 auto;
+    padding: 0 1.2em;
+}
